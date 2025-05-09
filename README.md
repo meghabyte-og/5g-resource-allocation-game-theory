@@ -60,7 +60,6 @@ where η is the learning rate, and `BestResponseᵢ` is determined by comparing 
 - `Cleaned_Quality_of_Service_5G.csv` – Parsed and standardized data
 - `Alpha_Values.csv` – Application-specific scaling factors
 - `Dataset_With_Payoff.csv` – Dataset with payoff values added
-- `Mixed_Strategy_Equilibrium.csv` – Computed equilibrium probabilities
 - `initial-vizualization.ipynb` – Python EDA notebook
 - `Project.ipynb` – Julia implementation of the game-theoretic model
 
